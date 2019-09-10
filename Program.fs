@@ -69,13 +69,20 @@ let rec doubleEveryElement(list) =
 let doubleEveryElementRes = doubleEveryElement(sampleList)
 printfn "greaterThanFive %A\n" (doubleEveryElement)
 
-
 let rec doublesEven(list) = 
     List.map (fun x -> if x % 2 = 0 then x * 2 else x) list
 let doublesEvenRes = doublesEven(sampleList)
 printfn "doublesEven %A\n" (doublesEvenRes)
 
+let rec halfGreaterThan20(list) = 
+    List.map (fun x -> if x > 20 then x /2 else x) list
+let halfGreaterThan20Res = halfGreaterThan20(sampleList)
+printfn "halfGreaterThan20 %A\n" (doublesEvenRes)
 
+let rec sumOfList(list) = 
+    List.sum list
+let sumOfListRes = sumOfList(sampleList)
+printfn "sumOfList %A\n" (sumOfListRes)
 
 
 
