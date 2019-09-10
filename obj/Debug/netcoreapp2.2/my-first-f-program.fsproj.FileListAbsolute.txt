@@ -1,0 +1,10 @@
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\bin\Debug\netcoreapp2.2\my-first-f-program.deps.json
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\bin\Debug\netcoreapp2.2\my-first-f-program.runtimeconfig.json
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\bin\Debug\netcoreapp2.2\my-first-f-program.runtimeconfig.dev.json
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\bin\Debug\netcoreapp2.2\my-first-f-program.dll
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\bin\Debug\netcoreapp2.2\my-first-f-program.pdb
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\obj\Debug\netcoreapp2.2\my-first-f-program.fsprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\obj\Debug\netcoreapp2.2\my-first-f-program.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\obj\Debug\netcoreapp2.2\my-first-f-program.AssemblyInfo.fs
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\obj\Debug\netcoreapp2.2\my-first-f-program.dll
+C:\Users\Jonathan\Documents\git\my-first-f-program\my-first-f-program\obj\Debug\netcoreapp2.2\my-first-f-program.pdb
